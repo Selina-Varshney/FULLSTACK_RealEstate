@@ -5,7 +5,7 @@ https://github.com/Selina-Varshney/FULLSTACK_RealEstate/assets/99686864/57abc472
 
 Fully Responsive, MERN WEbsite with the following functionalities:
 1) Login: Encorporated using Auth0
-2) Book A Visit: Choose a property, select a date, add to bookings in profile menu and is provided with a map.
+2) Book A Visit: Choose a property, select a date, add to bookings in profile menu. Map encorporated as well.
 3) Cancel a Booking: Remove booking from database.
 4) Add to favorates: Add to favorates in profile menu.
 5) Add a property: Add details along with a map, images and facilities to update to database.
