@@ -3,7 +3,7 @@ Demo Video:
 
 https://github.com/Selina-Varshney/FULLSTACK_RealEstate/assets/99686864/57abc472-0b95-48e2-8d67-219d89158b44
 
-Fully Responsive, MERN WEbsite with the following functionalities:
+Fully Responsive, MERN Website with the following functionalities:
 1) Login: Encorporated using Auth0
 2) Book A Visit: Choose a property, select a date, add to bookings in profile menu. Map encorporated as well.
 3) Cancel a Booking: Remove booking from database.
