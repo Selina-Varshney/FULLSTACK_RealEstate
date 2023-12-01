@@ -12,9 +12,7 @@ Fully Responsive, with the following functionalities:
 
 FrameWorks used:
 1) Frontend : React
-2) Backend : MongoDB Cloud, Compass, Prisma
+2) Backend : MongoDB Cloud, MongoDB Compass, Prisma , JavaScript
 
-![WhatsApp Image 2023-11-28 at 20 32 30_a1161d1e](https://github.com/Selina-Varshney/FULLSTACK_RealEstate/assets/99686864/9e4c424d-47ad-48b0-bf7c-3727083fa279)
-![WhatsApp Image 2023-11-28 at 20 38 11_78411fdc](https://github.com/Selina-Varshney/FULLSTACK_RealEstate/assets/99686864/8aa586c6-7a53-4c47-990d-12f5f2dc1d35)
-![WhatsApp Image 2023-11-28 at 20 39 30_eafc6611](https://github.com/Selina-Varshney/FULLSTACK_RealEstate/assets/99686864/52b2be0c-c6ff-4ebc-b3c3-aaba485a28a4)
-![WhatsApp Image 2023-11-28 at 20 51 26_c79c82b3](https://github.com/Selina-Varshney/FULLSTACK_RealEstate/assets/99686864/189a9edb-3158-41f1-af5d-9b5e2a116967)
+To run install node modules in client and server folder.
+For more details, refer to the Project report in the repository
