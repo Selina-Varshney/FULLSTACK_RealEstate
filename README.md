@@ -15,6 +15,7 @@ FrameWorks used:
 2) Backend : MongoDB Cloud, MongoDB Compass, Prisma , JavaScript
 
 To run install node modules in client and server folder.
+
 For more details, refer to the Project Report in this repository.
 
 
