@@ -10,7 +10,7 @@ Fully Responsive, MERN Website with the following functionalities:
 4) Add to favorates: Add to favorates in profile menu.
 5) Add a property: Add details along with a map, images and facilities to update to database.
 
-FrameWorks used:
+Frameworks used:
 1) Frontend : React
 2) Backend : MongoDB Cloud, MongoDB Compass, Prisma , JavaScript
 
