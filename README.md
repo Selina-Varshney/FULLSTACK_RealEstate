@@ -1,7 +1,7 @@
 # FULLSTACK Real Estate Management Website
-Demo Video_Selina Varshney
+Demo Video_Selina Varshney:
 
-This is a Full Stack Real Estate Website made by Selina Varshney
+This is a Full Stack Real Estate Website made me as a part of my Software Engineering Project
 
 https://github.com/Selina-Varshney/FULLSTACK_RealEstate/assets/99686864/57abc472-0b95-48e2-8d67-219d89158b44
 
